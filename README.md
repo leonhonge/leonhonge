@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leon</h1>
+<h1 align="center">It's Leon</h1>
 <h3 align="center">I write code, teach machines to guess, and now I’m learning how to break things (legally).</h3>
 
 - 🔭 I’m currently working on [slang-a-lator](https://slang-a-lator.vercel.app/)
