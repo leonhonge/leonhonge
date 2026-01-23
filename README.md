@@ -1,6 +1,6 @@
-<h1 align="center">Leon's Profile</h1>
+<h1 align="center">Hi, I'm Leon</h1>
 
-- 🔭 Project that I created: [slang-a-lator](https://slang-a-lator.vercel.app/)
+- 🔭 Project that I created for learning Spanish: [slang-a-lator](https://slang-a-lator.vercel.app/)
 
 - 🌱 I'm currently learning **Operating Systems**
 
