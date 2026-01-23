@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Leon</h1>
-<h3 align="center">I write code, teach machines to guess, and now I'm learning how to break things (legally).</h3>
+<h1 align="center">Leon's Profile</h1>
 
-- 🔭 I'm currently working on [slang-a-lator](https://slang-a-lator.vercel.app/)
+- 🔭 Project that I created: [slang-a-lator](https://slang-a-lator.vercel.app/)
 
-- 🌱 I'm currently learning **cybersecurity**
+- 🌱 I'm currently learning **Operating Systems**
 
 - 📫 How to reach me **leonhonge@gmail.com**
 
