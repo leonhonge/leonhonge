@@ -8,4 +8,4 @@
 
 ### 🔗 Connect with me
 
-<a href="https://www.linkedin.com/in/leon-honge-0b7787294/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/leon-honge-0b7787294/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="30"/></a>
