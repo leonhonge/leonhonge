@@ -2,7 +2,7 @@
 
 - 🔭 Project that I created for learning Spanish: [slang-a-lator](https://slang-a-lator.vercel.app/)
 
-- 🌱 I'm currently learning **Operating Systems**
+- 🌱 I'm currently learning **Networks & Distributed Systems**
 
 - 📫 How to reach me: **leonhonge@gmail.com**
 
