@@ -1,6 +1,5 @@
 # Hi, I'm Leon 👋
 
-- 🔭 Project I built to learn Spanish: [slang-a-lator](https://slang-a-lator.vercel.app/)
 - 🌱 Currently learning **Networks & Distributed Systems**
 - 📫 Reach me at: **leonhonge@gmail.com**
 
