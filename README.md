@@ -1,7 +1,7 @@
 # Hi, I'm Leon 👋
 
-- 🌱 Currently learning **Networks & Distributed Systems**
-- 📫 Reach me at: **leonhonge@gmail.com**
+- Currently learning **Networks & Distributed Systems**
+- Reach me at: **leonhonge@gmail.com**
 
 ---
 
