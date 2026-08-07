@@ -1,7 +1,7 @@
 # Leon's Profile
 
 - Currently learning **Networks & Distributed Systems**
-- Reach me at: **leonhonge@gmail.com**
+- Reach me at: **leonhonge@gmail.com** or **lhonge@umich.edu**
 
 ---
 
