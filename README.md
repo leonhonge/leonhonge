@@ -1,6 +1,6 @@
 # Leon's Profile
 
-- Currently learning **Mobile App Development & Distributed Systems**
+- Currently learning **Entrepreneurial Mobile App Development & Distributed Systems**
 - Reach me at: **leonhonge@gmail.com** or **lhonge@umich.edu**
 
 ---
